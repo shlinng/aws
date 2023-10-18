@@ -1,4 +1,4 @@
-# How to prepare for the AWS Certified Solutions Architect - Professional? 
+# How to prepare for the AWS Certified Solutions Architect - Professional (SAP-C02)? 
 
 ## Background
 Coming from AWS EMR service, my daily task involves how a cluster of EC2 instances interact with other AWS services, for example: IAM, S3, CloudWatch, CloudTrail, VPC, KMS, EBS, ASG, EKS and etc. To study for the exam, thorough review of the exam guide gives me a better idea of what will come up in the exam. 
