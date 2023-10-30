@@ -4,3 +4,4 @@ this is line three
 this is line four
 this is line five
 added number six
+added number seven
